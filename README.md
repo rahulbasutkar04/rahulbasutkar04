@@ -6,10 +6,10 @@
 - 🐳 Experience with **Docker & AWS**  
 
 ---
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-basutkar)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulbasutkar33@gmail.com)
+# 🏅 Achievements:
+- 🥇 Built production-ready backend systems  
+- ⚡ Improved API performance & scalability  
+- 🧪 Strong advocate of Test-Driven Development
 
 ---
 
@@ -32,15 +32,6 @@
 
 ---
 
-# 🚀 Featured Project:
-### 🔹 VExpo - Smart Exhibition Management System
-- 🏢 B2B exhibition management platform  
-- ⚙️ Built APIs using **Django & Flask**  
-- 🤖 Implemented **recommendation system**  
-- 🗄️ Designed optimized **MySQL database**  
-
----
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rahulbasutkar04&show_icons=true&theme=radical&hide_border=true)
 
@@ -50,14 +41,14 @@
 
 ---
 
-# 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=rahulbasutkar04&theme=radical&no-frame=true&margin-w=10)
-
----
-
 # ✍️ Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-basutkar)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulbasutkar33@gmail.com)
+
+---
 ![](https://komarev.com/ghpvc/?username=rahulbasutkar04&label=Profile%20views&color=0e75b6&style=flat)
